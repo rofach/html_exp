@@ -255,6 +255,10 @@ footer nav a:hover {
 } 
 
 @media (max-width: 768px) {
+    .title-style{
+        font-size: 5vw;
+    }
+
     .container {
         flex-direction: column;
     }
